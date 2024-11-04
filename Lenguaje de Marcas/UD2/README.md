@@ -2,6 +2,6 @@
 
 [Ejercicio 2](Tarea_2/index.html)
 
-[Ejercico 3](Tarea_3/index.html)
+[Ejercicio 3](Tarea_3/index.html)
 
-[Ejercico 4](Tarea_4/horario.html)
+[Ejercicio 4](Tarea_4/horario.html)
