@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>HTML</title>
+</head>
+<body>
+    <h1>HTML</h1>
+    <menu>
+        <li><a href="#home">Inicio</a></li>
+        <li><a href="#about">Acerca de</a></li>
+        <li><a href="#contact">Contacto</a></li>
+    </menu>
+</body>
+</html>

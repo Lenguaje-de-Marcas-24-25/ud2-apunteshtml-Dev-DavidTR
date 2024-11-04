@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Horario 1º DAW</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            margin-top: 20px;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 90%;
+            text-align: center;
+        }
+
+        th, td {
+            border: 1px solid #ccc;
+            padding: 10px;
+            font-size: 14px;
+        }
+
+        th {
+            background-color: #f2f2f2;
+            font-weight: bold;
+        }
+
+        td {
+            color: #333;
+        }
+
+        .BADAT {
+            font-weight: bold;
+            color: #FF5733; /* Color para BADAT */
+        }
+
+        .LMSGI {
+            font-weight: bold;
+            color: #33A1FF; /* Color para LMSGI */
+        }
+
+        .ENDES {
+            font-weight: bold;
+            color: #9B59B6; /* Color para ENDES */
+        }
+
+        .DASPGS {
+            font-weight: bold;
+            color: #27AE60; /* Color para DASPGS */
+        }
+
+        .SOST {
+            font-weight: bold;
+            color: #F1C40F; /* Color para SOST */
+        }
+
+        .IPE1 {
+            font-weight: bold;
+            color: #E67E22; /* Color para IPE1 */
+        }
+
+        .SIINF {
+            font-weight: bold;
+            color: #2980B9; /* Color para SIINF */
+        }
+
+        .PROGR {
+            font-weight: bold;
+            color: #C0392B; /* Color para PROGR */
+        }
+
+        .break {
+            background-color: #f9f9f9;
+            font-weight: bold;
+            color: #333;
+        }
+
+        /* Estilo para el texto de las aulas directamente en cada celda */
+        .room-info {
+            font-size: 12px;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+
+    <table>
+        <tr>
+            <th>Hora</th>
+            <th>Lunes</th>
+            <th>Martes</th>
+            <th>Miércoles</th>
+            <th>Jueves</th>
+            <th>Viernes</th>
+        </tr>
+        <tr>
+            <td>1ª <br> 08:15</td>
+            <td><span class="BADAT">BADAT</span></td>
+            <td><span class="BADAT">BADAT</span></td>
+            <td><span class="LMSGI">LMSGI</span></td>
+            <td><span class="DASPGS">DASPGS</span></td>
+            <td><span class="SOST">SOST</span></td>
+        </tr>
+        <tr>
+            <td>2ª <br> 09:15</td>
+            <td><span class="BADAT">BADAT</span></td>
+            <td><span class="ENDES">ENDES</span></td>
+            <td><span class="LMSGI">LMSGI</span></td>
+            <td><span class="IPE1">IPE1</span></td>
+            <td><span class="SIINF">SIINF</span></td>
+        </tr>
+        <tr>
+            <td>3ª <br> 10:15</td>
+            <td><span class="LMSGI">LMSGI</span></td>
+            <td><span class="ENDES">ENDES</span></td>
+            <td><span class="BADAT">BADAT</span></td>
+            <td><span class="SIINF">SIINF</span></td>
+            <td><span class="SIINF">SIINF</span></td>
+        </tr>
+        <tr class="break">
+            <td>R.<br>11:15</td>
+            <td colspan="5">Recreo</td>
+        </tr>
+        <tr>
+            <td>4ª <br> 11:45</td>
+            <td><span class="PROGR">PROGR</span></td>
+            <td><span class="PROGR">PROGR</span></td>
+            <td><span class="BADAT">BADAT</span></td>
+            <td><span class="SIINF">SIINF</span></td>
+            <td><span class="SIINF">SIINF</span></td>
+        </tr>
+        <tr>
+            <td>5ª <br> 12:45</td>
+            <td><span class="PROGR">PROGR</span></td>
+            <td><span class="PROGR">PROGR</span></td>
+            <td><span class="ENDES">ENDES</span></td>
+            <td><span class="PROGR">PROGR</span></td>
+            <td><span class="SOST">SOST</span></td>
+        </tr>
+        <tr>
+            <td>6ª <br> 13:45</td>
+            <td><span class="PROGR">PROGR</span></td>
+            <td><span class="PROGR">PROGR</span></td>
+            <td><span class="ENDES">ENDES</span></td>
+            <td><span class="PROGR">PROGR</span></td>
+            <td><span class="IPE1">IPE1</span></td>
+        </tr>
+    </table>
+
+</body>
+</html>
