@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Elemento raíz que contiene la receta -->
+<receta>
+    <!-- Nombre de la comida -->
+    <nombre>Sopa de cebolla</nombre>
+    <!-- Cantidad de porciones que rinde la receta -->
+    <raciones>4</raciones>
+    
+    <!-- Lista de ingredientes necesarios para la receta -->
+    <ingredientes>
+        <!-- Cada ingrediente tiene su propio elemento y contiene el nombre y la cantidad -->
+        <ingrediente>
+            <nombre>Cebolla</nombre>
+            <cantidad>1 Kg</cantidad>
+        </ingrediente>
+        <ingrediente>
+            <nombre>Caldo de carne</nombre>
+            <cantidad>2 Litros</cantidad>
+        </ingrediente>
+        <ingrediente>
+            <nombre>Mantequilla</nombre>
+            <cantidad>100 g</cantidad>
+        </ingrediente>
+        <ingrediente>
+            <nombre>Harina</nombre>
+            <cantidad>1 cucharada</cantidad>
+        </ingrediente>
+        <ingrediente>
+            <nombre>Queso emmental suizo o gruyére rallado</nombre>
+            <cantidad>100 g</cantidad>
+        </ingrediente>
+        <ingrediente>
+            <nombre>Pan tostado en rebanadas</nombre>
+            <cantidad>Al gusto</cantidad>
+        </ingrediente>
+        <ingrediente>
+            <nombre>Tomillo</nombre>
+            <cantidad>A tu gusto</cantidad>
+        </ingrediente>
+        <ingrediente>
+            <nombre>Hoja de laurel</nombre>
+            <cantidad>1</cantidad>
+        </ingrediente>
+    </ingredientes>
+    
+    <!-- Lista de pasos para la preparación de la receta -->
+    <preparacion>
+        <paso>Pelar y partir las cebollas en rodajas finas.</paso>
+        <paso>Rehogarlas en la mantequilla, sal y pimienta a fuego lento hasta que estén transparentes sin dorarse.</paso>
+        <paso>Añadir la harina sin dejar de remover.</paso>
+        <paso>Poner en una cazuela con el caldo, el tomillo y el laurel.</paso>
+        <paso>Dejar cocer a fuego lento durante unos 15 minutos.</paso>
+        <paso>Poner las rebanadas de pan encima, espolvorear el queso y gratinar al horno.</paso>
+    </preparacion>
+</receta>

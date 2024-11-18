@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+    <libro>
+        <titulo>Cien años de soledad</titulo>
+        <autor>Gabriel García Márquez</autor>
+        <editorial>Sudamericana</editorial>
+        <añoPublicacion>1967</añoPublicacion>
+    </libro>
+    <libro>
+        <titulo>Don Quijote de la Mancha</titulo>
+        <autor>Miguel de Cervantes</autor>
+        <editorial>Francisco de Robles</editorial>
+        <añoPublicacion>1605</añoPublicacion>
+    </libro>
+    <libro>
+        <titulo>1984</titulo>
+        <autor>George Orwell</autor>
+        <editorial>Secker & Warburg</editorial>
+        <añoPublicacion>1949</añoPublicacion>
+    </libro>
+</biblioteca>

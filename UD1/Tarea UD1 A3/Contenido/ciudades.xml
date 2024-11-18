@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ciudades>
+    <ciudad continente="Europa">
+        <nombre>Madrid</nombre>
+        <pais>España</pais>
+    </ciudad>
+    <ciudad continente="América del Norte">
+        <nombre>Ciudad de México</nombre>
+        <pais>México</pais>
+    </ciudad>
+    <ciudad continente="Asia">
+        <nombre>Tokio</nombre>
+        <pais>Japón</pais>
+    </ciudad>
+    <ciudad continente="África">
+        <nombre>El Cairo</nombre>
+        <pais>Egipto</pais>
+    </ciudad>
+</ciudades>

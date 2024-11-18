@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 90%;
+    text-align: center;
+}
+
+th, td {
+    border: 1px solid #151212;
+    padding: 10px;
+    font-size: 14px;
+}
+
+th {
+    background-color: #f7f3f3;
+    font-weight: bold;
+}
+
+td {
+    color: #801515;
+}
+
+.BADAT {
+    font-weight: bold;
+    color: #20cc4b; 
+}
+
+.LMSGI {
+    font-weight: bold;
+    color: #ce7e05; 
+}
+
+.ENDES {
+    font-weight: bold;
+    color: #c51f5f; 
+}
+
+.DASPGS {
+    font-weight: bold;
+    color: #148baf; 
+}
+
+.SOST {
+    font-weight: bold;
+    color: #330e8a; 
+}
+
+.IPE1 {
+    font-weight: bold;
+    color: #27469c; 
+}
+
+.SIINF {
+    font-weight: bold;
+    color: #702f72; 
+}
+
+.PROGR {
+    font-weight: bold;
+    color: #1bb380; 
+}
+
+.break {
+    background-color: #dad3d3;
+    font-weight: bold;
+    color: #601c1c;
+}
+
+
