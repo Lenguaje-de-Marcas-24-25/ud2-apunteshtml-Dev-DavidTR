@@ -1,5 +1,5 @@
 # Lenguajes de marcas 2 parte
-### Antonio Ríos
+### David TR
 
 ## Desarrollo de los lenguajes de marcas
 

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<rss version="2.0">
+    <channel>
+        <title>Noticias Actuales DavidTR</title>
+        <link>http://es.geocities.com/rss_guia_facil</link>
+        <description>Guia fac y sencilla sobre el formato RSS</description>
+        
+        <item>
+            <title>Error juego del calamar.</title>
+            <href>noticia_1calamar.html</href>
+            <description>noticia juego del calamar</description>
+        </item>
+        
+        <item>
+            <title>La Supercopa mas tensa: lio en el Barsa antes del duelo de semifinales ante el Athletic</title>
+            <link>https://www.20minutos.es/deportes/noticia/5670221/0/supercopa-mas-tensa-lio-barcelona-antes-duelo-semifinales-athletic/</link>
+            <description>Visita la Guia Facil del RSS y conoce para que sirve el formato RSS</description>
+        </item>
+        
+    </channel>
+</rss>
+

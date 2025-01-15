@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Elemento raíz que contiene toda la información de la agenda -->
+<agenda>
+    <!-- Primer contacto-->
+    <contacto>
+        <!-- Nombre del contacto -->
+        <nombre>Juan</nombre>
+        <!-- Apellidos del contacto -->
+        <apellidos>Pérez García</apellidos>
+        <!-- Dirección del contacto -->
+        <direccion>
+            <calle>Calle Ejemplo</calle>
+            <numero>123</numero>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <pais>España</pais>
+        </direccion>
+        <!-- Teléfonos -->
+        <telefonos>
+            <telefono_casa>912345678</telefono_casa>
+            <telefono_movil>612345678</telefono_movil>
+            <telefono_trabajo>912345679</telefono_trabajo>
+        </telefonos>
+    </contacto>
+    
+    <!-- Segundo contacto en la agenda -->
+    <contacto>
+            <!-- Nombre del contacto -->
+        <nombre>Ana</nombre>
+                <!-- Apellidos del contacto -->
+        <apellidos>López Martínez</apellidos>
+                <!-- Dirección del contacto -->
+        <direccion>
+            <calle>Avenida del Parque</calle>
+            <numero>45</numero>
+            <ciudad>Barcelona</ciudad>
+            <codigo_postal>08001</codigo_postal>
+            <pais>España</pais>
+        </direccion>
+                <!-- Teléfonos -->
+        <telefonos>
+            <telefono_casa>932345678</telefono_casa>
+            <telefono_movil>622345678</telefono_movil>
+            <telefono_trabajo>932345679</telefono_trabajo>
+        </telefonos>
+    </contacto>
+</agenda>
